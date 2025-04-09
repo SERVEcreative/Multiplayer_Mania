@@ -32,4 +32,12 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Project specific
+server.py
+client.py
+mobile_client.py
+mobile_requirements.txt
+*.log
+.env 
